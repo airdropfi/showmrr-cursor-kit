@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "showmrr": {
+      "type": "http",
+      "url": "https://showmrr.com/api/mcp"
+    }
+  }
+}

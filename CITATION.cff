@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "ShowMRR kit for Cursor"
+abstract: "ShowMRR is a public directory and leaderboard of startups and their monthly recurring revenue (MRR). Every figure is labelled verified, self-reported or not reported, and the read-only MCP server needs no account or API key."
+authors:
+  - name: "ShowMRR"
+    website: "https://showmrr.com"
+repository-code: "https://github.com/airdropfi/showmrr-cursor-kit"
+url: "https://showmrr.com/mcp"
+license: MIT
+version: 1.0.0
+keywords:
+  - mcp
+  - model-context-protocol
+  - startup-revenue
+  - mrr
+  - ai-agents
+  - cursor
